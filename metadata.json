@@ -1,0 +1,8 @@
+{
+  "name": "KUAyteawHQ",
+  "description": "AI ผู้ช่วยสำหรับขายสินค้าการ์ดเกมทาง LINE OA ตอบแชท รับออเดอร์ และจัดการระบบหลังบ้าน พร้อม Chain of Thought และระบบการเงิน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
